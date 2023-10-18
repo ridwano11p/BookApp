@@ -1,0 +1,4 @@
+the bookmodal should show up on the libary when you click on an image.
+add share functionality to the bookmodal.
+login and signup funtionality.
+use expo EAS builder to do some build tests.
